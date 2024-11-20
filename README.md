@@ -6,7 +6,7 @@ Este repositório contém o desenvolvimento do **Estudo de Caso 2** da disciplin
 
 - `Notebook_Modelo_Hotel.ipynb`: Notebook com o código Python para análise e criação do modelo.
 - `hotel_bookings.csv`: Conjunto de dados utilizado para a análise e modelagem.
-- `Trabalho 1 (1).pdf`: Documento com as instruções detalhadas do estudo de caso.
+- `Trabalho 1.pdf`: Documento com as instruções detalhadas do estudo de caso.
 
 ## 📊 Objetivos do Estudo de Caso
 
