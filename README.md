@@ -11,20 +11,18 @@ Este repositório contém o desenvolvimento do **Estudo de Caso 2** da disciplin
 ## 📊 Objetivos do Estudo de Caso
 
 1. **Análise Exploratória dos Dados**:
-   - Realização de análise gráfica e tabular para entendimento da base de dados. *(25% da pontuação total)*
+   - Realização de análise gráfica e tabular para entendimento da base de dados. 
 
 2. **Previsão com Modelo de Regressão Logística**:
-   - Desenvolvimento de um modelo preditivo para classificar as reservas. *(40% da pontuação total)*
+   - Desenvolvimento de um modelo preditivo para classificar as reservas. 
 
 3. **Identificação de Features Importantes**:
-   - Determinação das variáveis mais relevantes para o cancelamento das reservas. *(10% da pontuação total)*
-
+   - Determinação das variáveis mais relevantes para o cancelamento das reservas. 
 4. **Métricas de Avaliação do Modelo**:
-   - Apresentação de matriz de confusão, acurácia, precisão e recall. *(15% da pontuação total)*
+   - Apresentação de matriz de confusão, acurácia, precisão e recall. 
 
 5. **Ajustes de Desempenho**:
-   - Otimização do modelo para melhorar os resultados preditivos. *(10% da pontuação total)*
-
+   - Otimização do modelo para melhorar os resultados preditivos. 
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagem de Programação**: Python
